@@ -1,5 +1,6 @@
 +++
 title = "Ahoy! This is Ashish!"
+comments = false
 +++
 
 I am currently a first year PhD Mathematics student at [Indian Institute of Science Education and Research, Thiruvananthapuram](https://www.iisertvm.ac.in/). I study [Functional Analysis](https://en.wikipedia.org/wiki/Functional_analysis) (more specifically, [Operator Theory](https://en.wikipedia.org/wiki/Operator_theory) and its interactions with [Complex Function Theory](https://en.wikipedia.org/wiki/Complex_analysis)) under the supervision under [Dr. Md. Ramiz Reza](https://www.iisertvm.ac.in/faculty/ramiz/). 

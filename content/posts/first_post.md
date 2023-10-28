@@ -3,6 +3,7 @@ title = "Advancing in Academia: Continuing my PhD at IISER Thiruvananthapuram"
 tags = ["functionalAnalysis", "operatorTheory", "iiserTvm", "phdLife"]
 math = true
 date = "2023-10-22"
+comments = true
 
 +++
  
